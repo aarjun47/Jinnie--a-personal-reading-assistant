@@ -4,3 +4,5 @@ It scrapes the entire article in the background and opens a sleek assistant over
 Jinnie will respond conversationally, using only the information from that article—like chatting with a friend who just finished reading it.
 On the backend, the plugin leverages the deepseek/deepseek-r1-0528-qwen3-8b:free model through OpenRouter.
 The scraped content and your query are passed as a prompt to the model, ensuring that answers are context-aware and grounded solely in the article’s content.
+
+Please refer Product Requirment Document, Technical Architecture Document and Prompt Design Doc for knowing more about this product
